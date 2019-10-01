@@ -22,7 +22,7 @@ Install
 Since only the standard library is used, just download the single source code
 file and compile it::
 
-    $ wget https://raw.githubusercontent.com/pdrb/fwrite/master/src/fwrite.nim
+    $ wget https://raw.githubusercontent.com/pdrb/nim-fwrite/master/src/fwrite.nim
     $ nim c -d:release fwrite.nim
 
 
